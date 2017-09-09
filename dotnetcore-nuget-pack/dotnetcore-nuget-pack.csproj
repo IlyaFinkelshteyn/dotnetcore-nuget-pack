@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <TargetFramework>netcoreapp1.1</TargetFramework>
+  <PropertyGroup>    
+    <TargetFrameworks>netcoreapp1.1;net45</TargetFrameworks>
     <PackageId>dotnetcore-nuget-pack</PackageId>
     <Version>1.0.0</Version>
     <PackageVersion>1.0.0</PackageVersion>    
