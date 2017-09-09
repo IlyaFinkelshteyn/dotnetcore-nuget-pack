@@ -2,7 +2,11 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <PackageId>dotnetcore-nuget-pack</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <Version>1.0.0</Version>
+    <PackageVersion>1.0.0</PackageVersion>    
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+    <InformationalVersion>1.0.0</InformationalVersion>    
     <Authors>ilyaf</Authors>
     <Description>dotnetcore-nuget-pack</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
